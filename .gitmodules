@@ -1,0 +1,3 @@
+[submodule "nextrj_utils"]
+	path = nextrj_utils
+	url = git@github.com:nextrj/nextrj_utils.git
