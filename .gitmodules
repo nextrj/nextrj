@@ -1,3 +1,6 @@
 [submodule "nextrj_utils"]
 	path = nextrj_utils
 	url = git@github.com:nextrj/nextrj_utils.git
+[submodule "nextrj_terminal_progress"]
+	path = nextrj_terminal_progress
+	url = git@github.com:nextrj/nextrj_terminal_progress.git
